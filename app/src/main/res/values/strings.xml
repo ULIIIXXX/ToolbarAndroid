@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="titulo_fav">Favorito</string>
+    <string name="compartir">share</string>
+</resources>
